@@ -22,10 +22,7 @@ Sou estudante de **Ciência da Computação na Universidade Federal de Uberlând
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 Estatísticas do GitHub
-
-*(Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub para gerar as métricas automaticamente)*
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joa1paulo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joa1paulo&layout=compact&theme=dracula"/>
 </div>
