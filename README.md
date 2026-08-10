@@ -1,7 +1,7 @@
 # Olá, eu sou o João Paulo! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_DO_SEU_LINKEDIN)](LINK_DO_SEU_LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:SEU_EMAIL)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopdramos/)](https://www.linkedin.com/in/joaopdramos/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jotapaulo321@gmail.com)](mailto:jotapaulo321@gmail.com)
 
 Sou estudante de **Ciência da Computação na Universidade Federal de Uberlândia (UFU)** e apaixonado por desenvolvimento de software. 
 
