@@ -16,7 +16,7 @@ Sou estudante de **Ciência da Computação na Universidade Federal de Uberlând
 
 ### 🎓 Projetos Acadêmicos (UFU - Ciência da Computação)
 * **[JAVA-PROJETOUNO](https://github.com/joa1paulo/JAVA-PROJETOUNO):** Projeto de POO, utilizando java para fazer um clone do jogo UNO.
-* * **[InventarioMidiasFuncionalHaskell](https://github.com/joa1paulo/InventarioMidiasFuncionalHaskell):** Projeto de programação funcional, utilizando Haskell para desenvolver um sistema de inventário de mídias.
+* **[InventarioMidiasFuncionalHaskell](https://github.com/joa1paulo/InventarioMidiasFuncionalHaskell):** Projeto de programação funcional, utilizando Haskell para desenvolver um sistema de inventário de mídias.
 
 ### 💻 Formação Complementar e Certificações
 
