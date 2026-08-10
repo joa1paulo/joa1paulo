@@ -12,6 +12,17 @@ Sou estudante de **Ciência da Computação na Universidade Federal de Uberlând
 * 🚀 Gosto de utilizar ambientes de desenvolvimento em nuvem e explorar novas ferramentas para otimizar meus projetos.
 * 🎮 Nas horas vagas, você provavelmente me encontrará jogando **Counter-Strike 2** ou acompanhando novidades sobre periféricos e hardware.
 
+## 🚀 Projetos em Destaque
+
+### 🎓 Projetos Acadêmicos (UFU - Ciência da Computação)
+* **[JAVA-PROJETOUNO](https://github.com/joa1paulo/JAVA-PROJETOUNO):** Projeto de POO, utilizando java para fazer um clone do jogo UNO.
+
+### 💻 Formação Complementar e Certificações
+
+* ☁️ **[AWS Certified - INSERIR NOME EXATO DA CERTIFICAÇÃO](LINK_DO_CERTIFICADO_OU_CREDLY):** *Amazon Web Services*
+* 🐘 **[PHPverse 2026](LINK_AQUI):** Participação na conferência virtual focada no ecossistema PHP.
+* 📜 **[Outro Curso ou Certificado Relevante](LINK_AQUI):** *Instituição emissora*
+  
 ## 🛠️ Tecnologias e Ferramentas
 
 *(Atualize com as tecnologias que você mais utiliza)*
