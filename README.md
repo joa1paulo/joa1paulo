@@ -19,7 +19,7 @@ Sou estudante de **Ciência da Computação na Universidade Federal de Uberlând
 
 ### 💻 Formação Complementar e Certificações
 
-* ☁️ **[AWS Certified - INSERIR NOME EXATO DA CERTIFICAÇÃO](LINK_DO_CERTIFICADO_OU_CREDLY):** *Amazon Web Services*
+* ☁️ **[AWS Certified - AWS Cloud Practitioner Essentials](LINK_DO_CERTIFICADO_OU_CREDLY):** *Amazon Web Services*
 * 🐘 **[PHPverse 2026](LINK_AQUI):** Participação na conferência virtual focada no ecossistema PHP.
 * 📜 **[Outro Curso ou Certificado Relevante](LINK_AQUI):** *Instituição emissora*
   
