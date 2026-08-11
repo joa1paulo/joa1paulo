@@ -8,7 +8,7 @@ Sou estudante de **Ciência da Computação na Universidade Federal de Uberlând
 ## 👨‍💻 Sobre mim
 
 * 🎓 Graduando em Ciência da Computação (UFU).
-* 💻 Meus estudos e repositórios recentes envolvem **Estruturas de Dados em C**, **Java & QA**, e explorações no ecossistema **PHP**.
+* 💻 Meus estudos e repositórios recentes envolvem **Estruturas de Dados em C**, **Java**, e explorações no ecossistema **PHP**.
 * 🚀 Gosto de utilizar ambientes de desenvolvimento em nuvem e explorar novas ferramentas para otimizar meus projetos.
 * 🎮 Nas horas vagas, você provavelmente me encontrará jogando **Counter-Strike 2** ou acompanhando novidades sobre periféricos e hardware.
 
