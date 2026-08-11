@@ -26,8 +26,6 @@ Sou estudante de **Ciência da Computação na Universidade Federal de Uberlând
   
 ## 🛠️ Tecnologias e Ferramentas
 
-*(Atualize com as tecnologias que você mais utiliza)*
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
