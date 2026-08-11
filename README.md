@@ -34,7 +34,8 @@ Sou estudante de **Ciência da Computação na Universidade Federal de Uberlând
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 Estatísticas do GitHub
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joa1paulo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joa1paulo&layout=compact&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joa1paulo&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joa1paulo&layout=compact&theme=dracula" alt="Top Linguagens"/>
 </div>
